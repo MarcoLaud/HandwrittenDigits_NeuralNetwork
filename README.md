@@ -23,6 +23,10 @@ The optimal weigth matrices have been saved in npy format.
 
 The accuracy relative to the current implementation is 86.42%, computed on the test set of the MNIST database.
 
+Hope you like!
+Marco
+name AT namesurname.com
+
 ---
 To be implemented:
 1) regularized cost function.
